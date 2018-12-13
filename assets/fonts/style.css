@@ -1,8 +1,8 @@
 @font-face {
-   font-family: 'SourceSansPro-ExtraLight';
-   src: url('SourceSansPro-ExtraLight/font.ttf');
-}
-@font-face {
    font-family: 'SourceSansPro-ExtraLightItalic';
    src: url('SourceSansPro-ExtraLightItalic/font.ttf');
+}
+@font-face {
+   font-family: 'SourceSansPro-ExtraLight';
+   src: url('SourceSansPro-ExtraLight/font.ttf');
 }
